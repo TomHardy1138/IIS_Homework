@@ -24,3 +24,5 @@
 [Лабораторная работа №2](https://github.com/TomHardy1138/IIS_Homework/tree/main/lab2)
 
 [Лабораторная работа №5](https://github.com/TomHardy1138/IIS_Homework/tree/main/lab5)
+
+[Лабораторная работа №6](https://github.com/TomHardy1138/IIS_Homework/tree/main/lab6)
